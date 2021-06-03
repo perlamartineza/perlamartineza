@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @perlamartineza
+- 👀 I’m interested in data analystics
+- 🌱 I’m currently learning SQL
